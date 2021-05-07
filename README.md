@@ -14,4 +14,4 @@ And some more stuff to be added.
 
 -----Notice-----
 Want your app to be in the store?
-Send me a link to the pkg file, list the version, title, and developer in order to be vertified to be added to PS3Store.
+Send me the pkg file, list the version, title, and developer in order to be vertified to be added to PS3Store.
